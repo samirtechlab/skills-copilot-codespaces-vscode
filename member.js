@@ -38,3 +38,4 @@ function skillsMember() {
     var memberSkills35 = document.getElementById("memberSkills35");
     var memberSkills36 = document.getElementById("memberSkills36");
     var memberSkills37 = document.getElementById("memberSkills37");
+}
